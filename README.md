@@ -18,7 +18,7 @@
                   1. I took one programming class at Juniata and thought "WOW! what was my life without programming"<br/>
                   2. I got tired of writitng my feelings about the books I read on paper, lots of hand cramps<br/>
                   3. I felt that creating my own website would be a fun hobby honestly<br/>
-                  <h3>Reseach Intrest>/h3>
+                  <h3>Reseach Intrest</h3>
                     1. I am really interested in pursing plant research, especially in plant pollination and reproduction<br/>
                     2. I did map turtle research, how map turtles were being born and seeing the full life cycle <br/>
                     3.I worked on a dairy farm this summer! I wanted to see latic acid production in grass fed cows comapred to different cows with different diets<br/>
