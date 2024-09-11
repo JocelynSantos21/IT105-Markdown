@@ -1,5 +1,4 @@
 <html>
-  <head><title>IT105MarkDowntitle></head>
   <body>
     <p>
       <h1>Jocelyn Santos-Ordonez</h1>
