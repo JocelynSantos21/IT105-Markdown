@@ -1,14 +1,14 @@
 <html>
-  <head></head>title>IT105MarkDown</html>title></head>
+  <head><title>IT105MarkDowntitle></head>
   <body>
     <p>
       <h1>Jocelyn Santos-Ordonez</h1>
       <p>
-        <b>Jocelyn's Book Nook
+        <b>Jocelyn's Book Nook</b>
           I started this company during COVID (as one of the many hobbies I picked up during that dark time). Way before the pandemic, I was already reading a ridiculous number of books. I would go through roughly 2 to 3 books a month! Once I finished a book I would go to my friends and talk their ears off about the books I read. A lot of my friends aren’t big book readers, so I wanted a place to be able to share my opinions of all the books I have read! That’s where Jocelyn’s Book Nook came into play. I would write reviews on all the books I would read and rank the book out of 5 stars. It was a way for me to share my thoughts and feelings about books other may be interested in while also having chats with others who have read the book as well!<br/>
         </p>
           <p>
-            <h3>Jocelyn's Personal Statement<h3>
+            <h3>Jocelyn's Personal Statement</h3>h3>
               Hello everyone! My name is Jocelyn Santos. I am 21 years old, and I am currently a senior at Juniata College #Go Eagles. I was born and raised in Falls Church, Virginia by my 2 parents, Juan and Deysy Santos and I am the youngest of 2 older siblings. My sister is 32 years old while my older brother recently turned 30. Some things I do for fun are reading book, especially romance novels and listening to true crime podcast. My all-time favorite book now is The Song of Achilles by Madeline Miller. A fun fact about me is this past summer I learned how to swim. I wanted Jocelyn's Book Nook to be a space where everyone with similar taste in books can come together and share their thoughts and feelings with people who feel the same way as them and being able to form connections across the world!<br/>
             </p>
               <p>
