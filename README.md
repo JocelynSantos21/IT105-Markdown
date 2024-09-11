@@ -21,7 +21,4 @@
                     1. I am really interested in pursing plant research, especially in plant pollination and reproduction<br/>
                     2. I did map turtle research, how map turtles were being born and seeing the full life cycle <br/>
                     3.I worked on a dairy farm this summer! I wanted to see latic acid production in grass fed cows comapred to different cows with different diets<br/>
-      </p>
-    </p>
-  </body>
-</html>
+    
